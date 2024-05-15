@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Acerca de mi:<br><br>perfil de GitHub -Francisco  peñate<br><br>Hola soy francisco peñate , aprendiz del técnico en programación de software<br>ficha:2875029<br><br><br>Mi objetivo es aprender y compartir mis conocimientos y experiencias para ayudar a otros<br> aprender y crecer en el mundo de la programación.
 
 
